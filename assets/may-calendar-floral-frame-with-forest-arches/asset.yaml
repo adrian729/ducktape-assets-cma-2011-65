@@ -1,0 +1,68 @@
+# descriptive: find it and understand it
+id: may-calendar-floral-frame-with-forest-arches
+title: May calendar page frame with two arches
+description: "The complete frame of a calendar page. Across the top, two round arches on gold columns hold scenes against dense green foliage: a couple riding a white horse with a hawk at the left and a nude couple standing among trees at the right. The right and bottom margins carry flowers in pink, red and blue with green leaves and gray acanthus scrolls on a tan ground flecked with gold; a blue rule edges the left and divides the two text columns, which are transparent, as is the outside of the leaf."
+type: frame
+categories:
+  - floral
+  - scrollwork
+  - humans
+  - animals
+subjects:
+  - frame
+  - flower
+  - leaf
+  - acanthus
+  - rule
+  - architecture
+  - tree
+  - horse
+  - rider
+  - lover
+  - man
+  - woman
+colors:
+  - tan
+  - green
+  - gold
+  - gray
+  - blue
+facing: mixed
+composition: framed-scene
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-65/mounted-couple-on-white-horse
+    role: variant
+  - asset: cma-2011-65/gray-acanthus-network-with-three-lobes
+    role: variant
+  - asset: cma-2011-65/gray-acanthus-s-scroll
+    role: variant
+usage_notes:
+  - A complete non-repeating frame; place content in the two transparent columns under the arches and keep the proportions, there is no atlas.
+  - The two arches are a header band of their own; crop below the red baseline of the scenes for a banner.
+display_width:
+  - 600
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A few red letters of the calendar text remain at the right edge of the right column, and the outer edge keeps the cut parchment profile.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Calendar Page for May (recto)"
+  object_identifier: 2011.65.a
+  date: c. 1510
+  record_url: https://clevelandart.org/art/2011.65.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd
+license: null

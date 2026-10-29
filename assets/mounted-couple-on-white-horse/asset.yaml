@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: mounted-couple-on-white-horse
+title: Couple riding a white horse with a hawk
+description: A young man in a blue tunic hatched with gold, a red cap and black boots rides a white horse to the left, holding the red and gold reins in one hand and a brown hawk perched on the other, raised hand. Behind him sits a woman in an orange-red gown with gold hatching and a white veil under long black hair, one hand resting at her waist. Thin brown contours and gold highlights; the ground under the hooves and the background are transparent.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - man
+  - woman
+  - lover
+  - horse
+  - rider
+  - bird
+  - cap
+  - veil
+  - robe
+colors:
+  - white
+  - blue
+  - orange
+  - brown
+  - red
+facing: left
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-65/may-calendar-floral-frame-with-forest-arches
+    role: variant
+usage_notes:
+  - Cut from the left arch of the calendar frame; the horse moves left, so place it at the right of a heading or riding into a margin.
+display_width:
+  - 300
+  - 580
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The horse's far legs and the rear hoof end where the frame's column and ground overlapped them.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Calendar Page for May (recto)"
+  object_identifier: 2011.65.a
+  date: c. 1510
+  record_url: https://clevelandart.org/art/2011.65.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd
+license: null

@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: gray-acanthus-network-with-three-lobes
+title: Gray acanthus with three curls, lower margin
+description: A wide gray acanthus ornament from the lower margin of the calendar frame. Three large curling stems, a spiral at the left, a tall S-bend in the middle and a spiral at the right, grow from a common root at the bottom centre and throw off smaller folded and hooked leaves with pale knobs; the leaves are blue-gray with white highlights and darker gray shadows. Transparent background, the stems ending where they met the frame's flowers.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - stem
+colors:
+  - gray
+  - white
+  - light-blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2011-65/may-calendar-floral-frame-with-forest-arches
+    role: variant
+  - asset: cma-2011-65/gray-acanthus-s-scroll
+    role: companion
+usage_notes:
+  - Wide and low, it sits under a block of text or along a footer; the root at the bottom centre is the natural anchor.
+display_width:
+  - 400
+  - 860
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A faint brown parchment fringe follows the outline and a few stem tips end abruptly where neighbouring flowers overlapped them.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Calendar Page for May (recto)"
+  object_identifier: 2011.65.a
+  date: c. 1510
+  record_url: https://clevelandart.org/art/2011.65.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd
+license: null
