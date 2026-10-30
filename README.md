@@ -3,7 +3,7 @@
 
 The May calendar page of a Rouen Book of Hours of about 1510: a floral frame with forest arches and gray acanthus scrolls, in the Cleveland Museum of Art.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2011-65`, historical, 4 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2011-65`, historical, 4 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-2011-65/gray-acanthus-network-with-three-lobes`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2011-65@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2011-65@1.0.0/webp/gray-acanthus-network-with-three-lobes-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-2011-65`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-2011-65-masters`; never put a master on a page.
